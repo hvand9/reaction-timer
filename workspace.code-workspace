@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Vue-3-Firebase-lesson-37\\reaction-timer\\node_modules"
+		},
+		{
+			"path": "..\\..\\Vue-3-Firebase-lesson-37\\reaction-timer\\public"
+		},
+		{
+			"path": "..\\..\\Vue-3-Firebase-lesson-37\\reaction-timer\\src"
+		}
+	],
+	"settings": {}
+}
